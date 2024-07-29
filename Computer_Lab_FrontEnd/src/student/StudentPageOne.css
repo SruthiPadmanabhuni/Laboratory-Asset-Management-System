@@ -1,0 +1,15 @@
+.side-bar{
+    height: 100%;
+    width: 10%;
+    border: 3px solid black;
+    padding-bottom: 500px;
+}
+
+.sidecomp{
+    height: 100%;
+    width: 85%;
+}
+
+ul{
+    list-style-type: none;
+}
